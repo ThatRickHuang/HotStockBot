@@ -1,0 +1,20 @@
+{
+  "name": "stock-bot",
+  "version": "1.0.0",
+  "description": "Your project description goes here",
+  "main": "index.js",
+  "program": "${workspaceFolder}/stock_api.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.7.0",
+    "@polygon.io/client-js": "^7.3.2",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
