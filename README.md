@@ -1,5 +1,5 @@
 # HotStockBot
-A Discord bot that utilizes slash commands to pull financial data from APIs about any stock. The bot then outputs the retrieved information into the Discord server
+A Discord bot coded using JavaScript that utilizes slash commands to pull financial data from RESTFUL APIs about any stock. The bot then outputs the retrieved information into the Discord server
 
 # /close
 /close prompts for a ticker symbol, year, month, and day, and then displays the closing price on that date.
